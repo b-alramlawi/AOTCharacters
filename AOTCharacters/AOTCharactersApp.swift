@@ -11,7 +11,8 @@ import SwiftUI
 struct AOTCharactersApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
         }
     }
 }
+
