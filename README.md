@@ -11,9 +11,11 @@ Splash | All | All
 --- | --- | ---  
 ![aot1](https://github.com/user-attachments/assets/07cca8d3-065d-4797-a27f-de5da484e7c0) | ![aot2](https://github.com/user-attachments/assets/11586e6d-abfe-43af-809e-d5d006386716) | ![aot3](https://github.com/user-attachments/assets/ea5bc6c3-1c14-4c0c-8d3e-69df2459dd87)
 
-| Details | Search  
---- | ---  
-![aot4](https://github.com/user-attachments/assets/6a154373-a074-41be-92a3-72e6bc7c1138) | ![aot5](https://github.com/user-attachments/assets/f43b1ef3-bdef-42b4-b805-a64cf2c2f574)
+| Details | Search | Not Found  
+--- | --- | ---  
+![aot4](https://github.com/user-attachments/assets/33c528a9-40e0-4b20-8ec8-d36e075488b9)
+ | ![aot5](https://github.com/user-attachments/assets/4a27c232-3ecd-4a42-98ee-65f95fe46b73) | ![aot5](https://github.com/user-attachments/assets/9ea56699-1c1a-492f-a388-2f365d296a64)
+
 
 <br />
 
