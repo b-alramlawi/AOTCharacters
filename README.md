@@ -9,7 +9,7 @@ A simple iOS app built with SwiftUI to fetch and display information about chara
 ## App Images  
 Splash | All | All  
 --- | --- | ---  
-![aot1](https://github.com/user-attachments/assets/202ad3d7-3fb2-481a-8f65-b1942a29cbad) | ![aot2](https://github.com/user-attachments/assets/5413b59e-e98e-4872-818e-765522ab561f) | ![aot3](https://github.com/user-attachments/assets/914b23ca-ec94-4a38-83d8-7a6bd708cbc8)
+![aot1](https://github.com/user-attachments/assets/07cca8d3-065d-4797-a27f-de5da484e7c0) | ![aot2](https://github.com/user-attachments/assets/11586e6d-abfe-43af-809e-d5d006386716) | ![aot3](https://github.com/user-attachments/assets/ea5bc6c3-1c14-4c0c-8d3e-69df2459dd87)
 
 | Details | Search  
 --- | ---  
